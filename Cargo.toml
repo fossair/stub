@@ -1,0 +1,19 @@
+[package]
+name = "stub"
+version = "0.0.0"
+authors = ["Rem Petitjean <remi.petitjean@gmail.com>"]
+edition = "2021"
+rust-version = "1.75.0"
+description = "Stub request"
+documentation = "https://github.com/fossair/stub/blob/main/README.md"
+homepage = "https://github.com/fossair/stub"
+repository = "https://github.com/fossair/stub"
+readme = "README.md"
+license = "MIT"
+license-file = "LICENSE"
+keywords = ["test", "dev"]
+categories = []
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
